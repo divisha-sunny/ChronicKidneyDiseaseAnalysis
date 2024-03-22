@@ -9,5 +9,5 @@ Implementation of various machine learning algorithms for model training and tes
 Evaluation of model performance using accuracy, precision, recall, and F1 score metrics.
 Selection of the final model based on performance to predict CKD risk for new patients.
 Data Source:
-The dataset contains information collected from 2000 individuals, including 15 observations for each individual, and can be found [here]([url](https://www.kaggle.com/datasets/pavanbodanki/blood-press)https://www.kaggle.com/datasets/pavanbodanki/blood-press).
+The dataset contains information collected from 2000 individuals, including 15 observations for each individual, and can be found [here](https://www.kaggle.com/datasets/pavanbodanki/blood-press).
 
